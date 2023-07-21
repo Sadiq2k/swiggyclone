@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left-section{
+    margin-left: 121px;
+    width: 100%;
+    height: 581px;
+    position: relative;
+}
+    
+
+.logo{
+    height: 150px;
+    width: 200px;
+    object-fit: contain;
+    margin-top: 150px;
+    margin-top: 40px;
+}
+.img{
+    display: flex;
+    
+}
+.button{
+    display: flex;
+    margin-left: 260px;
+
+}
+.button1{
+    height: 44px;
+    margin-top: 90px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+.button a{
+    margin-top: 102px;
+    color: black;
+    text-decoration: none;
+}
+.right-section{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.right-img{
+    display: flex;
+    width: 45%;
+    position: absolute;
+    top: 1px;
+    height: 580px;
+    
+    
+}
+h1{
+    padding-left: 5px;
+    padding-top: 30px;
+}
+.search-bar{
+    height: 55px;
+    width: 500px;
+    margin-top: 50px;
+    font-size: larger;
+    font-weight: 400;
+    padding-left: 5px;
+    gap: 0 ;
+}
+.search-box button{
+    width: 120px;
+    height: 55px;
+    background-color: orange;
+    border: none;
+    color: white;
+    font-weight: 700;
+    padding-top: 5px;
+    cursor: pointer;
+}
+.text-button{
+    /* cursor: pointer; */
+    padding-top: 10px;
+}
+.text-button button{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.pic{
+    width: 100%;
+    height: 450px;
+    background-color:rgb(44, 1, 1);
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: center; */
+    color: white;
+   
+}
+.logo-content{
+    display: flex;
+    
+
+     margin-bottom: 200px;
+    height: 212px;
+    width: 255px;
+    display: block;
+}
+.sub-text{
+    display: flex;
+    justify-content: center;
+    /* color: white; */
+    font-size: 20px;
+    font-weight: 600;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin-top: 40px;
+}
+.text-description{
+    margin-top: 13px;
+    color: gray;
+   margin-left: 32px;
+}
+.third-page{
+    width: 100%;
+    height: 610px;
+    /* background-color: bisque; */
+    margin-left: 123px;
+    display: flex;
+}
+
+.third-heading{
+    height: 90px;
+    width: 424px;
+    font-weight: 700;
+    font-size: 33px;
+   
+    padding-top: 145px;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    display: block;
+}
+.third-sub{
+    color: gray;
+    font-size: 18px;
+    margin-top: 33px;
+}
+.google-button img{
+    width: 180px;
+    margin-top: 60px;
+    cursor: pointer;
+}
+.phone-photos{
+    display: flex;
+}
+.img1{
+    width: 380px;
+    margin-left: 110px;
+   
+    
+}
+.phone2{
+    margin-top: 90px;
+}
+.img2{
+    width: 380px;
+    margin-top: 36px;
+
+}
+.four-page{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    position: relative;
+    display: flex;
+    
+    
+   
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+   font-size: large;
+   font-weight: 600;
+  justify-content: space-around;
+   color: gray;
+   margin-top: 88px;
+}
+.contact{
+    display: flex;
+  
+}
+.company{
+    margin-left: 140px;
+}
+.company-name{
+    
+     margin-top: 15px;
+     display: flex;
+ 
+    border: none;
+    height: 20px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+  
+}
+.company-name:hover{
+    padding-left: 2px;
+}
+.footer-logo{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+
+
+}
+.logos{
+    width: 1px;
+}
+.company-button{
+
+    width: 80px;
+}
+.play-store-button{
+margin-top: 100px;
+   
+   
+}
